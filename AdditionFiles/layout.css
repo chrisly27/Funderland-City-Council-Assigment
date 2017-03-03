@@ -1,0 +1,95 @@
+body
+{
+	background-color: #e1f1ff;
+	font-family: Arial;
+	font-size: 16px;
+}
+#header
+{
+	background: #aad4f7;
+	font-size: 35px;
+	font-family: Arial;
+	text-align: center;
+	margin-left: auto;
+    margin-right: auto;
+	width: 100%;
+	border-radius: 8px;
+}
+
+/*
+#wrap
+{
+	width: 80%;
+	word-wrap: break-word;
+}
+*/
+
+#menu
+{
+	float: left;
+	margin-left: 10px;
+	margin-bottom: 15px;
+}
+
+.btn{
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  background: #3086bf;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #85cffc;
+  background-image: -webkit-linear-gradient(top, #85cffc, #85cffc);
+  background-image: -moz-linear-gradient(top, #85cffc, #85cffc);
+  background-image: -ms-linear-gradient(top, #85cffc, #85cffc);
+  background-image: -o-linear-gradient(top, #85cffc, #85cffc);
+  background-image: linear-gradient(to bottom, #85cffc, #85cffc);
+  text-decoration: none;
+}
+
+#container
+{
+	border: 1px solid black;
+	float: right;
+	width: 85%;
+	margin-bottom: 15px;
+}
+
+
+/*Property of the footer*/
+.footer
+{
+	color: #ffffff;
+	font-size: 16px;
+	font-family: Arial;
+	display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+	margin: 0%;
+}
+
+/*Property of the footer*/
+.color
+{
+	color: red;
+	font-style: italic;
+	font-weight: bold;
+}
+/*Property of the footer*/
+#footer
+{
+	clear: both;
+	text-align: center;
+    bottom:0; /*forces the footer to stay in bottom of the page*/
+    width:100%;
+    background:#5883ad;
+	border-radius: 8px;
+}

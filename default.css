@@ -1,0 +1,33 @@
+/*property of container on the left
+  both top and bottom one*/
+#left_Container
+{
+	float: left;
+	.border: 2px solid black;
+	width: 25%;
+	margin-bottom: 15px;
+	margin-left: 30px;
+	
+}
+
+/*property of container on the medium
+  both top and bottom one*/
+#medium_Container
+{
+	float: left;
+	.border: 2px solid black;
+	width: 25%;
+	margin-bottom: 15px;
+	margin-left: 90px;
+}
+
+/*property of container on the right
+  both top and bottom one*/
+#right_Container
+{
+	float: right;
+	.border: 2px solid black;
+	width: 25%;
+	margin-bottom: 15px;
+	margin-right: 20px;
+}

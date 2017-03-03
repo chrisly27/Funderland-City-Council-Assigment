@@ -1,0 +1,28 @@
+.bold
+{
+	font-weight: bold;
+	border-radius: 3px;
+	font-size: 25px;
+}
+.box
+{
+	margin: 3px;
+}
+
+#middle
+{
+	width: 50%;
+	float: left;
+	margin-left: 20%;
+	background: #aad4f7;
+	color: #000000;
+	font-weight: bold;
+	border: 3px solid #5883ad;
+	border-radius: 15px;
+	padding: 10px;
+}
+
+
+
+
+
